@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fca640-f9fd-4853-8e61-61ff63bb8e4b" name="Changes" comment="" />
+    <list default="true" id="f9fca640-f9fd-4853-8e61-61ff63bb8e4b" name="Changes" comment="added PipeLine">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestGenerator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestGenerator/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,13 +75,64 @@
       <updated>1638718400614</updated>
       <workItem from="1638718400616" duration="3020000" />
       <workItem from="1638813029685" duration="8880000" />
-      <workItem from="1638879962536" duration="1720000" />
+      <workItem from="1638879962536" duration="2043000" />
     </task>
+    <task id="LOCAL-00001" summary="added CodeAnalyzer">
+      <created>1638884583997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884583997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added TestsGenerator">
+      <created>1638884611578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884611578</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added ClassInfo">
+      <created>1638884682013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884682013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added ConstructorInfo">
+      <created>1638884692353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884692353</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added MethodInfo">
+      <created>1638884706997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884706998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added FileInfo">
+      <created>1638884716088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884716088</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added PipeLine">
+      <created>1638884730020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884730020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +148,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="added CodeAnalyzer" />
+    <MESSAGE value="added TestsGenerator" />
+    <MESSAGE value="added ClassInfo" />
+    <MESSAGE value="added ConstructorInfo" />
+    <MESSAGE value="added MethodInfo" />
+    <MESSAGE value="added FileInfo" />
+    <MESSAGE value="added PipeLine" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PipeLine" />
   </component>
 </project>
